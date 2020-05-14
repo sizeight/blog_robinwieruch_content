@@ -18,7 +18,7 @@ So far, you should have a working JavaScript with Webpack application. In this t
 
 # ESLint
 
-[ESLint](http://eslint.org/) in JavaScript helps you to set up rules and to enforce code style across your code base. Let’s get started by installing the [eslint](https://github.com/eslint/eslint) library (node package). You can install it in your project with `npm install eslint` from your project's root directory.
+[ESLint](http://eslint.org/) in JavaScript helps you to set up rules and to enforce code style across your code base. Let’s get started by installing the [eslint](https://github.com/eslint/eslint) library (node package). You can install it in your project with `npm install --save-dev eslint` from your project's root directory.
 
 You may also want to install the ESLint extension/plugin for your editor/IDE. For instance, in VSCode you can find the [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension on their marketplace. I guess it's quite similar for your IDE/editor of choice. Afterward, you should see all the ESLint errors in your editor's/IDE's output.
 
